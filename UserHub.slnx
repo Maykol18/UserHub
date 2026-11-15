@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="UserHub.API/UserHub.API.csproj" />
+  <Project Path="UserHub.Application/UserHub.Application.csproj" />
+  <Project Path="UserHub.Domain/UserHub.Domain.csproj" />
+  <Project Path="UserHub.Infrastructure/UserHub.Infrastructure.csproj" />
+  <Project Path="UserHub.Tests/UserHub.Tests.csproj" />
+</Solution>
