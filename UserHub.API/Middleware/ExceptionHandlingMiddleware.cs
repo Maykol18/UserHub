@@ -53,7 +53,11 @@ public class ExceptionHandlingMiddleware
             context.Response.ContentType = "application/problem+json";
 
             //Write ProblemDetails as JSON.
-            await context.Response.WriteAsJsonAsync(ProblemDetails);
+            await context.Response.WriteAsJsonAsync(
+                ProblemDetails,
+                options: null,
+                contentType: "application/problem+json"
+                );
         }
     }
 }

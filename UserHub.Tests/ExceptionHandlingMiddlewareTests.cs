@@ -43,7 +43,7 @@ public class ExceptionHandlingMiddlewareTests
 
             //Assert: Verify the HTTP response
             Assert.Equal(
-                "application/json",
+                "application/problem+json",
                 response.Content.Headers.ContentType?.MediaType
             );
 
