@@ -1,0 +1,57 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+[Ll]og[s]/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/*
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/tasks.json
+
+# .NET / NuGet
+*.nupkg
+*.snupkg
+.nuget/packages/
+artifacts/
+
+# Test results and coverage
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.coverage
+*.coveragexml
+coverage/
+coverage.*
+
+# Runtime files
+*.pidb
+*.svclog
+*.cache
+
+# Local configuration and secrets
+secrets.json
+appsettings.*.local.json
+.env
+.env.*
+!.env.example
+
+# Entity Framework local artifacts
+*.db
+*.db-shm
+*.db-wal
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
