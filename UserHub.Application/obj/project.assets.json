@@ -1,11 +1,30 @@
 {
   "version": 4,
   "targets": {
-    "net10.0": {}
+    "net10.0": {
+      "UserHub.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/UserHub.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UserHub.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "UserHub.Domain/1.0.0": {
+      "type": "project",
+      "path": "../UserHub.Domain/UserHub.Domain.csproj",
+      "msbuildProject": "../UserHub.Domain/UserHub.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net10.0": []
+    "net10.0": [
+      "UserHub.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\thebe\\.nuget\\packages\\": {},
@@ -36,7 +55,11 @@
         "net10.0": {
           "framework": "net10.0",
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\thebe\\Desktop\\Nueva Practica\\UserHub\\UserHub.Domain\\UserHub.Domain.csproj": {
+              "projectPath": "C:\\Users\\thebe\\Desktop\\Nueva Practica\\UserHub\\UserHub.Domain\\UserHub.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

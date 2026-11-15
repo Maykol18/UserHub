@@ -1,0 +1,16 @@
+C:\Users\thebe\Desktop\Nueva Practica\UserHub\UserHub.Application\bin\Debug\net10.0\UserHub.Application.deps.json
+C:\Users\thebe\Desktop\Nueva Practica\UserHub\UserHub.Application\bin\Debug\net10.0\UserHub.Application.dll
+C:\Users\thebe\Desktop\Nueva Practica\UserHub\UserHub.Application\bin\Debug\net10.0\UserHub.Application.pdb
+C:\Users\thebe\Desktop\Nueva Practica\UserHub\UserHub.Application\bin\Debug\net10.0\UserHub.Domain.dll
+C:\Users\thebe\Desktop\Nueva Practica\UserHub\UserHub.Application\bin\Debug\net10.0\UserHub.Domain.pdb
+C:\Users\thebe\Desktop\Nueva Practica\UserHub\UserHub.Application\obj\Debug\net10.0\UserHub.Application.csproj.AssemblyReference.cache
+C:\Users\thebe\Desktop\Nueva Practica\UserHub\UserHub.Application\obj\Debug\net10.0\UserHub.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thebe\Desktop\Nueva Practica\UserHub\UserHub.Application\obj\Debug\net10.0\UserHub.Application.AssemblyInfoInputs.cache
+C:\Users\thebe\Desktop\Nueva Practica\UserHub\UserHub.Application\obj\Debug\net10.0\UserHub.Application.AssemblyInfo.cs
+C:\Users\thebe\Desktop\Nueva Practica\UserHub\UserHub.Application\obj\Debug\net10.0\UserHub.Application.csproj.CoreCompileInputs.cache
+C:\Users\thebe\Desktop\Nueva Practica\UserHub\UserHub.Application\obj\Debug\net10.0\UserHub.Application.sourcelink.json
+C:\Users\thebe\Desktop\Nueva Practica\UserHub\UserHub.Application\obj\Debug\net10.0\UserHub..E4D91925.Up2Date
+C:\Users\thebe\Desktop\Nueva Practica\UserHub\UserHub.Application\obj\Debug\net10.0\UserHub.Application.dll
+C:\Users\thebe\Desktop\Nueva Practica\UserHub\UserHub.Application\obj\Debug\net10.0\refint\UserHub.Application.dll
+C:\Users\thebe\Desktop\Nueva Practica\UserHub\UserHub.Application\obj\Debug\net10.0\UserHub.Application.pdb
+C:\Users\thebe\Desktop\Nueva Practica\UserHub\UserHub.Application\obj\Debug\net10.0\ref\UserHub.Application.dll
